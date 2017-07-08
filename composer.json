@@ -1,0 +1,13 @@
+{
+    "name": "ozgurince/simpleforum",
+    "description": "simple forum package for Laravel 5.4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ozgur Ince",
+            "email": "oince026@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
