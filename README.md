@@ -14,9 +14,9 @@ demo url: https://simpleforum.000webhostapp.com/ozgurince/simpleforum
   - Admins can ban members.
 
 ### Installation
-1.- Add to composer.json file the package
+1.- Download the package
 ```sh
-"ozgurince/simpleforum" : "1.0.*"
+composer require ozgurince/simpleforum
 ```
 
 2.- After installing this package, you have to set the service provider on your config/app.php file
