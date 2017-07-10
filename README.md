@@ -33,7 +33,7 @@ php artisan db:seed --class=Ozgurince\Simpleforum\Seeds\RolesTableSeeder
 php artisan db:seed --class=Ozgurince\Simpleforum\Seeds\UsersTableSeeder
 ```
 
-4.- Publish the forum config file on your config folder and publish the default template to your resources/assets/less/ folder, hit the follow command.
+4.- Publish the assests to your public folder.
 ```sh
 php artisan vendor:publish --tag=public --force
 ```
